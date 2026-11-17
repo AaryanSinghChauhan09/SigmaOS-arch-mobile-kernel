@@ -3,7 +3,7 @@ name = "SigmaOS-arch-mobile-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-mobile-kernel component"
+description = "SigmaOS SigmaOS-arch-mobile-kernel component"
 upstream = []
 
 [contract]
